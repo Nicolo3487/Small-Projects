@@ -1,0 +1,30 @@
+/*  BODY    */
+#bg{
+    background-color: rgba(48, 205, 233, 0.39);
+    font-family: 'Kanit', sans-serif;
+}
+footer{
+    position: relative;
+    bottom: 0;
+    width: 100%;
+
+    background-image: url(../METEO/images/abstract_hand_painted_sunset_clouds_background_2606.jpg);
+    width: auto;
+    height: 5rem;
+    background-position: contain;
+}
+
+/*  TITLE   */
+#titleImage {
+    background-image: url(../METEO/images/abstract_hand_painted_sunset_clouds_background_2606.jpg);
+    width: auto;
+    height: 10rem;
+    background-position: contain;
+}
+#credit {
+    font-size: 0.5rem;
+    position: relative;
+    top: -4.5rem;  
+}
+
+

@@ -54,7 +54,7 @@ async function getWeather() {
                         <h2>${cityName}, ${country}</h2>
                     </div>
                     <h2>${weather}</h2>
-                    <div class="weather-icon">
+                    <div>
                         <img src="http://openweathermap.org/img/w/${icon}.png"> 
                     </div>
                     <h5>${description}</h5>
